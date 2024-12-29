@@ -1,0 +1,131 @@
+Name	Node
+Government Environmental Department 	GOV-E
+Government Water Department 	GOV-W
+Government Finance Department 	GOV-F
+Environmental Group Leadership 	EG-LL
+Environmental Group Administrative Office 	EG-AO
+Environmental Group Finance Department 	EG-FD
+Environmental Group Enterprise Management Department 	EG-EMD
+Environmental Group Water Environment Department 	EG-WED
+Environmental Group Engineering Construction Department 	EG-ECD
+Wastewater Treatment Company General Manager 	WWTC-GM
+Wastewater Treatment Company Deputy General Manager 	WWTC-DGM
+Wastewater Treatment Company Equipment Department 	WWTC-ED
+Wastewater Treatment Company Finance Department 	WWTC-FD
+Wastewater Treatment Company Administrative Office 	WWTC-AO
+Wastewater Treatment Company Atmospheric Environment Department 	WWTC-AED
+Wastewater Treatment Company Operation Maintenance Leader 	WWTC-OML
+Wastewater Treatment Company Operation Maintenance Member 1 	WWTC-OM-M1
+Wastewater Treatment Company Operation Maintenance Member 2 	WWTC-OM-M2
+Wastewater Treatment CompanyPipeline Network Work Leader 	WWTC-PNWL
+Wastewater Treatment CompanyPipeline Network Inspection and Maintenance Team Leader 	WWTC-PNIMTL
+Wastewater Treatment CompanyPipeline Network Inspection and Maintenance Team 1 	WWTC-PNIMT1
+Wastewater Treatment CompanyPipeline Network Inspection and Maintenance Team 2 	WWTC-PNIMT2
+Wastewater Treatment CompanyPipeline Network Inspection and Maintenance Team 3 	WWTC-PNIMT3
+Wastewater Treatment CompanyPipeline Network Operation Maintenance Dispatch Team Leader 	WWTC-PNOMDTL
+Wastewater Treatment CompanyPipeline Network Operation Maintenance Dispatch Team Member 1 	WWTC-PNOMDTM1
+Wastewater Treatment CompanyPipeline Network Operation Maintenance Dispatch Team Member 2 	WWTC-PNOMDTM2
+Wastewater Treatment CompanyPipeline Network Water Quality Testing Team Member 1 	WWTC-PNWQTTM1
+Wastewater Treatment CompanyPipeline Network Water Quality Testing Team Member 2 	WWTC-PNWQTTM2
+Wastewater Treatment Plant General Manager 	WWTP-GM
+Wastewater Treatment Plant Deputy General Manager (Production) 	WWTP-DGM-P
+Wastewater Treatment Plant Deputy General Manager (Safety) 	WWTP-DGM-S
+Wastewater Treatment Plant Operation Team Leader 	WWTP-OT-L
+Wastewater Treatment Plant Operation Team Member 1 	WWTP-OT-M1
+Wastewater Treatment Plant Operation Team Member 2 	WWTP-OT-M2
+Wastewater Treatment Plant Operation Team Member 3 	WWTP-OT-M3
+Wastewater Treatment Plant Administrative Team Leader 	WWTP-AT-L
+Wastewater Treatment Plant Administrative Team Member 1 	WWTP-AT-M1
+Wastewater Treatment Plant Administrative Team Member 2 	WWTP-AT-M2
+Wastewater Treatment Plant Finance Team Leader 	WWTP-FT-L
+Wastewater Treatment Plant Finance Team Member 1 	WWTP-FT-M1
+Wastewater Treatment Plant Finance Team Member 2 	WWTP-FT-M2
+Wastewater Treatment Plant Equipment Team Leader 	WWTP-ET-L
+Wastewater Treatment Plant Equipment Team Member 1 	WWTP-ET-M1
+Wastewater Treatment Plant Equipment Team Member 2 	WWTP-ET-M2
+Wastewater Treatment Plant Water Quality Monitor 1 	WWTP-WQM1
+Wastewater Treatment Plant Water Quality Monitor 2 	WWTP-WQM2
+Sensing Equipment Supplier 	SES
+Analytical Equipment Supplier 	AES
+Decision Equipment Supplier 	DES
+Execution Equipment Supplier 	EES
+Residents in Wastewater Treatment Area 	Residents
+Media 	Media
+Netizens 	Netizens
+Pipeline Network Water Level Meter 1 (Confluence of Main and Branch Pipes) 	PN-WLM1-CMBP
+Pipeline Network Water Level Meter 2 (Flood-prone Areas) 	PN-WLM2-FPA
+Pipeline Network Water Level Meter 3 (River) 	PN-WLM3-R
+Pipeline Network Flow Velocity Meter 1 (Confluence of Main and Branch Pipes) 	PN-FVM1-CMBP
+Pipeline Network Flow Velocity Meter 2 (Pumping Station) 	PN-FVM2-PS
+Pipeline Network Flow Velocity Meter 3 (Main Inlet Pipe) 	PN-FVM3-MIP
+Pipeline Network Flow Meter 1 (Confluence of Main and Branch Pipes) 	PN-FM1-CMBP
+Pipeline Network Flow Meter 2 (Pumping Station) 	PN-FM2-PS
+Pipeline Network Flow Meter 3 (Key Drainage Household) 	PN-FM3-KDH
+Pipeline Network Flow Meter 4 (Main Inlet Pipe) 	PN-FM4-MIP
+Pipeline Network Water Quality Tester 1 (Key Drainage Household) 	PN-WQT1-KDH
+Pipeline Network Water Quality Tester 2 (Main Inlet Pipe) 	PN-WQT2-MIP
+Pipeline Network Water Quality Tester 3 (Confluence of Main and Branch Pipes) 	PN-WQT3-CMBP
+Pipeline Network Video Surveillance 1 (Flood-prone Areas) 	PN-VS1-FPA
+Pipeline Network Video Surveillance 2 (Main Inlet Pipe) 	PN-VS2-MIP
+Wastewater Treatment Plant Water Quality Tester 1 (Inlet Pump House) 	WWTP-WQT1-IPH
+Wastewater Treatment Plant Water Quality Tester 2 (Biochemical Reactor) 	WWTP-WQT2-BR
+Wastewater Treatment Plant Water Quality Tester 3 (Outlet Pump House) 	WWTP-WQT3-OPH
+Wastewater Treatment Plant Water Level Meter 1 (Inlet Pump House) 	WWTP-WLM1-IPH
+Wastewater Treatment Plant Water Level Meter 2 (Recirculation Pump House) 	WWTP-WLM2-RPH
+Wastewater Treatment Plant Water Level Meter 3 (Chemical Addition Room) 	WWTP-WLM3-CAR
+Wastewater Treatment Plant Turbidity Meter 1 (High-density Sedimentation Tank) 	WWTP-TM1-HST
+Wastewater Treatment Plant Turbidity Meter 2 (UV Disinfection Channel) 	WWTP-TM2-UVC
+Wastewater Treatment Plant Sludge Level Meter (Secondary Sedimentation Tank) 	WWTP-SLM-SST
+Wastewater Treatment Plant Flow Meter 1 (Inlet Pump House) 	WWTP-FM1-IPH
+Wastewater Treatment Plant Flow Meter 2 (Biochemical Reactor) 	WWTP-FM2-BR
+Wastewater Treatment Plant Flow Meter 3 (Denitrification Filter) 	WWTP-FM3-DF
+Wastewater Treatment Plant Flow Meter 4 (Chemical Addition Room) 	WWTP-FM4-CAR
+Wastewater Treatment Plant Flow Meter 5 (Outlet Pump House) 	WWTP-FM5-OPH
+Wastewater Treatment Plant Water Temperature Meter (Outlet Pump House) 	WWTP-WTM-OPH
+Wastewater Treatment Plant Air Flow Meter (Blower Room) 	WWTP-AFM-BR
+Wastewater Treatment Plant Meteorological Sensor 	WWTP-MS
+Water Quality Analyzer 1 (Analyzing Network Wastewater) 	WQA1-NW
+Water Quality Analyzer 2 (Analyzing Inlet Wastewater) 	WQA2-IW
+Water Quality Analyzer 3 (Analyzing Outlet Wastewater) 	WQA3-OW
+Wastewater Treatment Plant SCADA 	WWTP-SCADA
+Pipeline Network SCADA 	PN-SCADA
+Wastewater Treatment Company Central Control Platform 	WWTC-CCP
+Wastewater Treatment Plant Decision System 	WWTP-DS
+Pipeline Network Decision System 	PN-DS
+Wastewater Treatment Plant Control Center 	WWTP-CC
+Pipeline Network Control Center 	PN-CC
+Wastewater Treatment Plant Pump 1 (Inlet Pump House) 	WWTP-P1-IPH
+Wastewater Treatment Plant Pump 2 (Denitrification Filter) 	WWTP-P2-DF
+Wastewater Treatment Plant Pump 3 (Aeration Sedimentation Tank) 	WWTP-P3-AST
+Wastewater Treatment Plant Pump 4 (Outlet Pump House) 	WWTP-P4-OPH
+Wastewater Treatment Plant Sludge Pump 1 (Recirculation Pump House) 	WWTP-SP1-RPH
+Wastewater Treatment Plant Sludge Pump 2 (High-density Sedimentation Tank) 	WWTP-SP2-HST
+Wastewater Treatment Plant Chemical Addition Pump (Chemical Addition Room) 	WWTP-CAP-CAR
+Wastewater Treatment Plant Chemical Unloading Pump (Chemical Addition Room) 	WWTP-CUP-CAR
+Wastewater Treatment Plant Odor Removal Device 1 (Biochemical Reactor) 	WWTP-ORD1-BR
+Wastewater Treatment Plant Odor Removal Device 2 (Sludge Removal Room) 	WWTP-ORD2-SRR
+Wastewater Treatment Plant Debris Cleaner 1 (Inlet Pump House) 	WWTP-DC1-IPH
+Wastewater Treatment Plant Debris Cleaner 2 (Aeration Sedimentation Tank) 	WWTP-DC2-AST
+Wastewater Treatment Plant Blower (Blower Room) 	WWTP-BR-BR
+Wastewater Treatment Plant Sand and Oil Skimmer (Aeration Sedimentation Tank) 	WWTP-SOS-AST
+Wastewater Treatment Plant Mixer 1 (Biochemical Reactor) 	WWTP-M1-BR
+Wastewater Treatment Plant Mixer 2 (High-density Sedimentation Tank) 	WWTP-M2-HST
+Wastewater Treatment Plant Mixer 3 (Chemical Addition Room) 	WWTP-M3-CAR
+Wastewater Treatment Plant Air Compressor (Denitrification Filter) 	WWTP-AC-DF
+Wastewater Treatment Plant Sand-Water Separator (Aeration Sedimentation Tank) 	WWTP-SWS-AST
+Wastewater Treatment Plant Conveyor (Inlet Pump House) 	WWTP-CV-IPH
+Wastewater Treatment Plant Propeller (Biochemical Reactor) 	WWTP-PR-BR
+Wastewater Treatment Plant Mud Scraper 1 (Secondary Sedimentation Tank) 	WWTP-MS1-SST
+Wastewater Treatment Plant Mud Scraper 2 (High-density Sedimentation Tank) 	WWTP-MS2-HST
+Wastewater Treatment Plant Press (Aeration Sedimentation Tank) 	WWTP-PRESS-AST
+Wastewater Treatment Plant Chemical Consumption Metering Pump (Chemical Addition Room) 	WWTP-CCMP-CAR
+Wastewater Treatment Plant UV Disinfection Device (UV Disinfection Channel) 	WWTP-UVD-UVC
+Wastewater Treatment Plant Sludge Dewatering Equipment 	WWTP-SDE
+Wastewater Treatment Plant Sludge Drying Equipment 	WWTP-SDRY
+Pipeline Network Pump Station 1 (Main Pipeline) 	PN-P1-MP
+Pipeline Network Pump Station 2 (Low-lying Area) 	PN-P2-LLA
+Pipeline Network Pump Station 3 (High-density Population Area) 	PN-P3-HDPA
+Pipeline Network Electric Valve 1 (Pipeline Intersection) 	PN-EV1-PI
+Pipeline Network Electric Valve 2 (Before and After Pump Station) 	PN-EV2-PS
+Pipeline Network Electric Valve 3 (Before Inlet Pipeline) 	PN-EV3-BIP
+Pipeline Network Electric Valve 4 (Key Drainage Household Pipeline) 	PN-EV4-KDHP
